@@ -22,7 +22,7 @@ Features
 
 ---
 
-Project Structure
+```Project Structure
 
 binance-futures-trading-bot/
 │
@@ -43,7 +43,7 @@ binance-futures-trading-bot/
 └── .env
 
 ---
-
+```
 Requirements
 
 - Python 3.x
@@ -85,7 +85,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 ---
 
-Sample Output
+```Sample Output
 
 ==============================
 ORDER REQUEST SUMMARY
@@ -104,7 +104,7 @@ Executed Qty  : 0.0000
 Average Price : 0.00
 
 ---
-
+```
 Logging
 
 All API requests, responses, and errors are stored in:
