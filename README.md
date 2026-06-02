@@ -168,5 +168,4 @@ The repository includes screenshots for:
 ---
 
 Author
-
 Nitish Kumar 
