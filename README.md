@@ -157,7 +157,7 @@ Screenshots
 The repository includes screenshots for:
 
 1. MARKET BUY Order
-![alt text](<Screenshot 2026-06-02 182332-2.png>)
+![alt text](<Screenshot 2026-06-02 182332.png>)
 
 2. LIMIT SELL Order
 ![alt text](<Screenshot 2026-06-02 182404.png>)
